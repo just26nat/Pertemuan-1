@@ -10,6 +10,6 @@ Data Analytics adalah proses mengumpulkan, membersihkan, mengolah, dan menganali
 - Contoh: "Menghitung rata-rata jual bulanan di sebuah perusahaan."
 
 **2. Diagnostic Analysis**
-- Tujuan: *"Menjelaskan mengapa hal tersebut terjadi"*
+- Tujuan: *Menjelaskan mengapa hal tersebut terjadi*
 - Teknik: Correlation analysis, regression analysis, root cause analysis.
-- Contoh: "Memahami mengapa jualan tersebut menurun"
+- Contoh: Memahami mengapa jualan tersebut menurun
