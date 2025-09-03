@@ -8,7 +8,8 @@ Data Analytics adalah proses mengumpulkan, membersihkan, mengolah, dan menganali
 - Tujuan: *"Untuk merangkum sebuah data yang telah terjadi"*
 - Teknik: Mean, median, mode, standard deviation, frequency counts, charts, and graphs.
 - Contoh: "Menghitung rata-rata jual bulanan di sebuah perusahaan."
-- **2. Descriptive Analysis**
+
+**2. Descriptive Analysis**
 - Tujuan: *"Untuk merangkum sebuah data yang telah terjadi"*
 - Teknik: Mean, median, mode, standard deviation, frequency counts, charts, and graphs.
 - Contoh: "Menghitung rata-rata jual bulanan di sebuah perusahaan."
